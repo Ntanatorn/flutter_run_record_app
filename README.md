@@ -14,7 +14,11 @@ UI Screen Only for Slpash Screen , my run , insert and up del
 
 <img src="https://github.com/user-attachments/assets/34a8352e-fe01-4fe4-963c-458b672305d9" width="250">
 
+<img src="https://github.com/user-attachments/assets/b156d287-f66c-4f7c-918e-854909f95f25" width="250">
+
 <img src="https://github.com/user-attachments/assets/065764cf-05c3-4602-878f-f7b6a0fa7f4a" width="250">
+
+<img src="https://github.com/user-attachments/assets/8e3362dd-4d07-4901-9349-fc96dcb2c40b" width="250">
 
 <img src="https://github.com/user-attachments/assets/9fa3e2de-8c66-4847-84b4-97da8f46bc46" width="250">
 
@@ -24,9 +28,7 @@ UI Screen Only for Slpash Screen , my run , insert and up del
 
 <img src="https://github.com/user-attachments/assets/a64cfea6-fa68-405e-b101-7df505c19c1e" width="250">
 
-<img src="https://github.com/user-attachments/assets/b156d287-f66c-4f7c-918e-854909f95f25" width="250">
 
-<img src="https://github.com/user-attachments/assets/8e3362dd-4d07-4901-9349-fc96dcb2c40b" width="250">
 
 
 
